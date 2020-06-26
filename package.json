@@ -1,7 +1,7 @@
 {
   "name": "com.aftah.soundmanager",
   "version": "1.0.0",
-  "displayName" :  "Bullet Hell Sound Manager",
+  "displayName" :  "BulletHell Sound Manager",
   "description": "This custom package of sound manager for Rogue Like prototype ",
   "unity": "2019.3",
   "unityRelease": "3f1",
